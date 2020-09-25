@@ -9,4 +9,5 @@ Under projektet skulle vi besvare følgende spørgsmål:
 - Hvordan kan erfarne og uerfarne udviklere arbejde sammen på en hensigtsmæssig måde?
 
 Så skulle vi også lave et fungerende program, som vi så skulle fremvise i en videopræsentation.
-(Programmet kan man se her på github)
+
+Linket til videopræsentationen: https://www.youtube.com/watch?v=AEcu_0cIUbw
